@@ -28,6 +28,16 @@ const projects = [
     demoLink: "",
     githubLink: "",
     image: "whatsapp.avif",
+  },
+  {
+    title:"W3 School Clone",
+     description:
+      "A clean and responsive HTML,CSS-based W3 School Clone with smooth UI and fast authentication flow.",
+    tech: ["Html", "CSS"],
+    demoLink: "https://w3-school-clone-delta.vercel.app/",
+    githubLink: "https://github.com/Yuvarajyuvi3/W3-School-Clone",
+    image: "W3 school.png",
+    
   }
   
 ];
