@@ -28,7 +28,7 @@ const Contact = () => {
         >
           <FaLinkedin className="icon linkedin-icon block" />
         </a>
-        <a href="yuvarajjayakumar04@gmail.com" aria-label="Email">
+        <a href="mailto:yuvarajjayakumar04@gmail.com" aria-label="Email">
           <MdEmail className="icon email-icon" />
         </a>
         <a
