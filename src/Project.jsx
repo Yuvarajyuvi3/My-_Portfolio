@@ -10,6 +10,16 @@ const projects = [
     image: "fruits ad.png",
     
   },
+  {
+    title:"Cake Shop",
+     description:
+      "A clean and responsive HTML,CSS-based Cake Shop with smooth UI and fast authentication flow.",
+    tech: ["Html", "CSS"],
+    demoLink: "https://cake-shop-tan.vercel.app/",
+    githubLink: "https://github.com/Yuvarajyuvi3/Cake-Shop",
+    image: "Cake Shop.png",
+    
+  },
    {
     title:"Weather-App",
      description:
