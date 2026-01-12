@@ -31,13 +31,13 @@ const projects = [
     
   },
   {
-    title: "WhatsApp Clone",
+    title: "Hotel Booking App",
     description:
-      "A responsive WhatsApp clone with feed UI, story section, and modern layout. Built fully using React.",
-    tech: ["Html", "CSS", "JavaScript", "React"],
-    demoLink: "",
-    githubLink: "",
-    image: "whatsapp.avif",
+      "A responsive Hotel Booking App with feed UI, story section, and modern layout. Built fully using React.",
+    tech: ["Html", "CSS", "JavaScript"],
+    demoLink: "https://hotel-booking-web-page.vercel.app/index.html",
+    githubLink: "https://github.com/Yuvarajyuvi3/Hotel_booking_web-page.git",
+    image: "hotel_booking.png",
   },
   {
     title:"W3 School Clone",
